@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Sajad Amouei Sheshkal**, an **AI Engineer** based in Oslo, Norway.
+I'm **Sajad Amouei Sheshkal**, a researcher and AI Engineer based in Oslo, Norway.
 
 I'm currently wrapping up my PhD, which focuses on developing **machine learning** and **explainable AI** models for metabolomics data to identify biomarkers for dry eye disease — as part of an Industrial PhD project.
 I hold a **BSc in Software Engineering** and an **MSc in Artificial Intelligence**.
